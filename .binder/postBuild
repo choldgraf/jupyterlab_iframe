@@ -1,0 +1,2 @@
+jupyter labextension install jupyterlab_iframe
+jupyter serverextension enable --py jupyterlab_iframe
